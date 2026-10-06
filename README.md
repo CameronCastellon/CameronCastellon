@@ -8,4 +8,4 @@ I’m especially interested in automation that improves judgment and follow-thro
 
 **Focus areas:** Product growth · Customer research · Experimentation · Product analytics · API and workflow integration · Responsible AI automation · B2B software
 
-https://www.linkedin.com/in/cameroncastellon/ 
+[LinkedIn](https://www.linkedin.com/in/cameroncastellon/)
